@@ -1,0 +1,6 @@
+[submodule "sql-trainer-backend"]
+	path = sql-trainer-backend
+	url = https://github.com/MariusWit/sql-trainer-backend
+[submodule "sql-trainer-frontend"]
+	path = sql-trainer-frontend
+	url = https://github.com/MariusWit/sql-trainer-frontend
