@@ -21,8 +21,8 @@ This repository serves as the main entry point for the SQL-Trainer project and l
 
 The source code and setup instructions are located in these submodules:
 
-- 🔗 [Frontend](frontend/) – Vue.js SPA for user interaction
-- 🔗 [Backend](backend/) – Spring Boot API for query execution and logic
+- 🔗 [Frontend](https://github.com/MariusWit/sql-trainer-frontend) – Vue.js SPA for user interaction
+- 🔗 [Backend](https://github.com/MariusWit/sql-trainer-backend) – Spring Boot API for query execution and logic
 
 ---
 
